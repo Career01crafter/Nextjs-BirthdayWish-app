@@ -129,7 +129,7 @@ return (
 
 {/* Card header with birthday message */}
           <CardHeader className="text-center">
-            <CardTitle className="text-4xl font-bold text-black">"Happy 25<sup>th</sup> BirthDay"</CardTitle>
+            <CardTitle className="text-4xl font-bold text-black">Happy 25<sup>th</sup> BirthDay</CardTitle>
             <CardDescription className="text-2xl font-semibold text-blue-600">Narmeen Asghar</CardDescription>
             <p className="text-lg text-black-500">November 22<sup>nd</sup></p>
           </CardHeader>
